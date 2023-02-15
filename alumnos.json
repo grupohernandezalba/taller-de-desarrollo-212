@@ -2,7 +2,7 @@
     {
         "nombre" : " Alan Javier",
         "apellidos" : "Arana Carrillo",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Arion",
@@ -12,7 +12,7 @@
     {
         "nombre" : "Jaed Eduardo",
         "apellidos" : "Balleza Aceves",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Enrique Humberto",
@@ -22,17 +22,17 @@
     {
         "nombre" : "Edgar",
         "apellidos" : "Cabrera Velazquez",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Diego",
         "apellidos" : "Camarena Gutiérrez",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Alejandra",
         "apellidos" : "Díaz Barajas",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Brisa Alessandra",
@@ -42,7 +42,7 @@
     {
         "nombre" : "Leonardo Emmanuel",
         "apellidos" : "Guízar Rivera",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Jared Yahir",
@@ -82,22 +82,22 @@
     {
         "nombre" : "Ronaldo",
         "apellidos" : "Núñez Laguna",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Victor Manuel",
         "apellidos" : "Ortíz Feregrino",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Juan Francisco",
         "apellidos" : "Osorno Martinez",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Sebastián",
         "apellidos" : "Rodríguez Martínez",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Jesús",
@@ -112,7 +112,7 @@
     {
         "nombre" : "Cristian Ibrahim",
         "apellidos" : "Salomón Márquez",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "José Pablo",
@@ -127,7 +127,7 @@
     {
         "nombre" : "Marco Antonio",
         "apellidos" : "Sánchez Murillo",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Kevin Jonathan",

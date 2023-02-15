@@ -17,7 +17,7 @@
     {
         "nombre" : "Enrique Humberto",
         "apellidos" : "Bañuelos Neri",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Edgar",
@@ -37,7 +37,7 @@
     {
         "nombre" : "Brisa Alessandra",
         "apellidos" : "García Rodríguez",
-        "participaciones" : 1
+        "participaciones" : 2
     },
     {
         "nombre" : "Leonardo Emmanuel",
@@ -47,7 +47,7 @@
     {
         "nombre" : "Jared Yahir",
         "apellidos" : "Hernández Delgado",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Nils Yasir",
@@ -57,12 +57,12 @@
     {
         "nombre" : "Juan Pablo",
         "apellidos" : "Hernández Ponce de León",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Andrés",
         "apellidos" : "Jaime Rodríguez",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Edna Catalina",
@@ -117,7 +117,7 @@
     {
         "nombre" : "José Pablo",
         "apellidos" : "Sancen Fonseca",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Rafael",
@@ -137,11 +137,11 @@
     {
         "nombre" : "Luisa Fernanda",
         "apellidos" : "Vázquez Razo",
-        "participaciones" : 0
+        "participaciones" : 1
     },
     {
         "nombre" : "Ivan",
         "apellidos" : "Vivas García",
-        "participaciones" : 0
+        "participaciones" : 1
     }
 ]

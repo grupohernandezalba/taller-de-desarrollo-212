@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Página de tecnología</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <style>
+    body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: lightgray;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+  </style>
+  <body>
+    <header>
+      <h1>Empresa de tecnología</h1>
+      <nav>
+        <ul>
+          <li><a href="#nosotros">Nosotros</a></li>
+          <li><a href="#productos">Productos</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="nosotros">
+        <h2>Nosotros</h2>
+        <p>Somos una empresa de tecnología líder en el mercado, con años de experiencia en el desarrollo de soluciones innovadoras para nuestros clientes.</p>
+      </section>
+      <section id="productos">
+        <h2>Productos</h2>
+        <ul>
+          <li>Producto 1</li>
+          <li>Producto 2</li>
+          <li>Producto 3</li>
+        </ul>
+      </section>
+      <section id="contacto">
+        <h2>Contacto</h2>
+        <form action="#" method="post">
+          <label for="nombre">Nombre:</label>
+          <input type="text" id="nombre" name="nombre">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email">
+          <label for="mensaje">Mensaje:</label>
+          <textarea id="mensaje" name="mensaje"></textarea>
+          <input type="submit" value="Enviar">
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright &copy; Empresa de tecnología 2023</p>
+    </footer>
+  </body>
+</html>

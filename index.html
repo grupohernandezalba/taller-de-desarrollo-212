@@ -33,83 +33,98 @@
     <script>
 
 
-    const APIURL = 'alumnos.json';
-
-    var arregloAlumnos = [];
-
-    fetch(APIURL)
-    .then(function(response) {
-
-        if (response.status !== 200) {
-            console.log('Ocurrió un error. Código de error: ' + response.status);
-            return;
-        }
-
-        response.json().then(function(alumnos) {
-
-            html = '';
-            let contador = 0;
-            alumnos.forEach( function(alumno) {
-
-                    estado = `<span class="badge bg-success">`+ alumno.participaciones +`</span>`;
-                    if(!alumno.participaciones)
-                        estado = ' ';
-
-                    html += `
-                        <div class="col-6 col-md-1 p-1 text-center animated zoomIn wow" id="alumno${contador}">     
-                            <img class="border border-white hvr-grow" src="imagenes/sin-foto.webp" width="100px" alt="${ alumno.nombre }">
-                            <p>${ estado } <strong>${ alumno.nombre }</strong> ${ alumno.apellidos }</p>               
-                        </div>       
-                    `;                        
-                
-                    datoAlumno = { 
-                                    id : contador, 
-                                    nombre : alumno.nombre + " " + alumno.apellidos,
-                                    participaciones : alumno.participaciones
-                                };
-
-                    arregloAlumnos.push(datoAlumno);
-                    contador++;
+        const APIURL = 'alumnos.json';
+    
+        var arregloAlumnos = [];
+    
+        fetch(APIURL)
+        .then(function(response) {
+    
+            if (response.status !== 200) {
+                console.log('Ocurrió un error. Código de error: ' + response.status);
+                return;
+            }
+    
+            response.json().then(function(alumnos) {
+    
+                html = '';
+                let contador = 0;
+                let totalPracticas = 3;
+                let totalParticipaciones = 1;
+                alumnos.forEach( function(alumno) {
+    
+    
+                        if(!alumno.participaciones)
+                            estado = ' ';
+    
+                        porcentajePracticas =  (alumno.practicas * 100 ) / totalPracticas; 
+                        porcentajeParticipaciones =  (alumno.participaciones * 100 ) / totalParticipaciones; 
+    
+                        let colorPracticas = (alumno.practicas < totalPracticas ) ? 'text-danger' : 'text-success';
+                        let colorParticipaciones = (alumno.participaciones > 0) ? 'text-success' : 'text-danger';
+                        html += `
+                            <div class="col-6 border col-md-2 p-1 m-2 text-center animated zoomIn wow" id="alumno${contador}">     
+                                <img class="border border-white hvr-grow" src="imagenes/sin-foto.webp" width="100px" alt="${ alumno.nombre }">
+                                <p><strong>${ alumno.nombre }</strong> ${ alumno.apellidos }</p> 
+                                <div class='row'>
+                                    <div class='col-6 ${ colorPracticas }'>
+                                        `+ alumno.practicas +`/`+ totalPracticas +` 
+                                    </div>
+                                    <div class='col-6 ${ colorParticipaciones }'>
+                                        `+ alumno.participaciones +`
+                                    </div>
+                                </div>
+                            </div>       
+                        `;                        
+                    
+                        datoAlumno = { 
+                                        id : contador, 
+                                        nombre : alumno.nombre + " " + alumno.apellidos,
+                                        participaciones : alumno.participaciones
+                                    };
+    
+                        arregloAlumnos.push(datoAlumno);
+                        contador++;
+                });
+    
+                var listaAlumnos = document.getElementById('listaAlumnos');                                        
+                listaAlumnos.innerHTML = html;
+                console.log(arregloAlumnos);
+                console.table(arregloAlumnos);   
             });
-
-            var listaAlumnos = document.getElementById('listaAlumnos');                                        
-            listaAlumnos.innerHTML = html;
-            console.log(arregloAlumnos);
-            console.table(arregloAlumnos);   
+            
+        })
+        .catch(function(err) {
+            console.log(err);
         });
-        
-    })
-    .catch(function(err) {
-        console.log(err);
-    });
-
-
-    function elegirAlumno() {            
-        
-        let alumnoElegido = arregloAlumnos[Math.floor(Math.random()*arregloAlumnos.length)];
-
-        console.log('Elegido: ' + alumnoElegido.id);
-
-        let destacarAlumno = document.getElementById("alumno" + alumnoElegido.id);
-
-        destacarAlumno.classList.add("border");
-        destacarAlumno.classList.add("border-success");
-        destacarAlumno.classList.add("border-2");
-        destacarAlumno.classList.add("rounded");
-        destacarAlumno.classList.add("bg-light");
-        destacarAlumno.classList.add("shadow");
-
-        arregloAlumnos = arregloAlumnos.filter(function(alumno) { 
-            //return alumno.id != alumnoElegido.id; 
-            console.log('FILTRO:' + alumno.nombre);
-            return alumno.participaciones < 1; 
-        }); 
-
-        console.log(arregloAlumnos);
-
-    }
-
-    </script>  
+    
+    
+        function elegirAlumno() {            
+            
+            let alumnoElegido = arregloAlumnos[Math.floor(Math.random()*arregloAlumnos.length)];
+    
+            console.log('Elegido: ' + alumnoElegido.id);
+    
+            let destacarAlumno = document.getElementById("alumno" + alumnoElegido.id);
+    
+            destacarAlumno.classList.add("border");
+            destacarAlumno.classList.add("border-success");
+            destacarAlumno.classList.add("border-2");
+            destacarAlumno.classList.add("rounded");
+            destacarAlumno.classList.add("bg-light");
+            destacarAlumno.classList.add("shadow");
+    
+            arregloAlumnos = arregloAlumnos.filter(function(alumno) { 
+                //return alumno.id != alumnoElegido.id; 
+                console.log('FILTRO:' + alumno.nombre);
+                return alumno.participaciones < 1; 
+            }); 
+    
+            console.log(arregloAlumnos);
+    
+        }
+    
+        </script>  
 
 </body>
 </html>

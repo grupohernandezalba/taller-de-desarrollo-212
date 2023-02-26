@@ -2,14 +2,14 @@
     {
         "nombre" : " Alan Javier",
         "apellidos" : "Arana Carrillo",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 3
     },
     {
         "nombre" : "Arion",
         "apellidos" : "Bardo Aranda",
         "participaciones" : 0,
-        "practicas" : 0
+        "practicas" : 3
     },
     {
         "nombre" : "Jaed Eduardo",
@@ -26,7 +26,7 @@
     {
         "nombre" : "Edgar",
         "apellidos" : "Cabrera Velazquez",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 3
     },
     {
@@ -44,8 +44,8 @@
     {
         "nombre" : "Brisa Alessandra",
         "apellidos" : "García Rodríguez",
-        "participaciones" : 2,
-        "practicas" : 1
+        "participaciones" : 5,
+        "practicas" : 3
     },
     {
         "nombre" : "Leonardo Emmanuel",
@@ -62,7 +62,7 @@
     {
         "nombre" : "Nils Yasir",
         "apellidos" : "Hernández González",
-        "participaciones" : 0,
+        "participaciones" : 3,
         "practicas" : 3
     },
     {
@@ -80,31 +80,31 @@
     {
         "nombre" : "Edna Catalina",
         "apellidos" : "Méndez Zavala",
-        "participaciones" : 0,
-        "practicas" : 1
+        "participaciones" : 3,
+        "practicas" : 3
     },
     {
         "nombre" : "Uriel",
         "apellidos" : "Mendoza Rodríguez",
-        "participaciones" : 0,
+        "participaciones" : 2,
         "practicas" : 3
     },
     {
         "nombre" : "Luis Pablo",
         "apellidos" : "Mujica Vargas",
-        "participaciones" : 0,
+        "participaciones" : 1,
         "practicas" : 3
     },
     {
         "nombre" : "Ronaldo",
         "apellidos" : "Núñez Laguna",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 3
     },
     {
         "nombre" : "Victor Manuel",
         "apellidos" : "Ortíz Feregrino",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 3
     },
     {
@@ -117,25 +117,25 @@
         "nombre" : "Sebastián",
         "apellidos" : "Rodríguez Martínez",
         "participaciones" : 1,
-        "practicas" : 0
+        "practicas" : 1
     },
     {
         "nombre" : "Jesús",
         "apellidos" : "Romero Ramírez",
-        "participaciones" : 0,
+        "participaciones" : 1,
         "practicas" : 1
     },
     {
         "nombre" : "José Manuel",
         "apellidos" : "Salcedo Méndez",
-        "participaciones" : 0,
+        "participaciones" : 1,
         "practicas" : 3
     },
     {
         "nombre" : "Cristian Ibrahim",
         "apellidos" : "Salomón Márquez",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 3
     },
     {
         "nombre" : "José Pablo",
@@ -152,7 +152,7 @@
     {
         "nombre" : "Marco Antonio",
         "apellidos" : "Sánchez Murillo",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 3
     },
     {
@@ -170,7 +170,7 @@
     {
         "nombre" : "Ivan",
         "apellidos" : "Vivas García",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 3
     }
 ]

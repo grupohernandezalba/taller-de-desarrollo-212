@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    
+    <form action="">
+        <label for="nombre">Nombre:</label>
+        <input type="text" required name="nombre" id="nombre">
+        <label for="apellido">Apellido:</label>
+        <input type="text" required name="apellido" id="apellido">
+        <input type="submit" value="Enviar">
+    </form>
+    <hr>
+    <form action="">
+        <fieldset>
+            <label for="nombre2">Nombre:</label>
+            <input type="text" required name="nombre2" id="nombre2" 
+            placeholder="ingresa tu nombre">
+            <label for="correo">Correo:</label>
+            <input type="email" required name="correo" id="correo">
+            <label for="edad">Edad:</label>
+            <input type="number" step="any" name="edad" id="edad">
+            <br><br><br>
+            <label for="lenguaje">Lenguaje favorito:</label>
+            <input type="radio" name="lenguaje" id="js"> Javascript
+            <input type="radio" name="lenguaje" id="python"> Python
+            <input type="radio" name="lenguaje" id="c"> C
+            <br><br><br>
+            <label for="paises">Países que he visitado:</label>
+            <input type="checkbox" name="EU" id="EU"> Estados Unidos
+            <input type="checkbox" name="CA" id="CA"> Canadá  
+            <input type="checkbox" name="JA" id="JA"> Japón  
+            <input type="checkbox" name="CO" id="CO"> Colombia 
+            <br><br><br>
+            <label for="mensaje">Mensaje o comentario:</label>
+            <textarea name="mensaje" required id="mensaje" cols="30" rows="3">
+            </textarea>
+            <br><br><br>
+            <input type="submit" value="Enviar">
+        </fieldset>
+    </form>
+
+
+    <form action="forma1">
+        <label for="username">Usuario:</label><br>
+        <input type="text" id="username" name="username"><br>
+        <label for="pwd">Contraseña:</label><br>
+        <input type="password" id="pwd" name="pwd">
+        <br>
+
+        <br>
+        <label for="favcolor">Color favorito:</label>
+        <input type="color" id="favcolor" name="favcolor">
+        <br>
+        <label for="nac">Fecha de nacimiento:</label>
+        <input type="date" id="nac" name="nac">
+
+        <br>
+        <label for="viaje">Horario de partida:</label>
+        <input type="datetime-local" id="viaje" name="viaje">
+
+        <p>
+            <label for="archivo">Ingresa una fotografía:</label>
+            <input type="file" name="archivo" id="archivo">
+        </p>
+        <p>
+            <label for="edad">Ingresa tu edad</label>
+            <input type="number" name="edad" id="edad" 
+            placeholder="10" value="18">
+        </p>
+        <p>
+            <label for="volumen">Volumen (entre 0 y 100):</label>
+            <input type="range" name="volumen" id="volumen"
+            min="0" max="100">
+        </p>
+        <p>
+            <label for="hora">Hora:</label>
+            <input type="time" name="hora" id="hora">
+        </p>
+        <p>
+            <label for="semana">Semana:</label>
+            <input type="week" name="semana" id="semana">
+        </p>
+        <p>
+            <label for="celular">Teléfono</label>
+            <input type="tel" name="celular" id="celular" 
+            pattern="[0-9]{3} [0-9]{3}-[0-9]{4}" >
+        </p>
+        <input type="submit" name="enviar" id="enviar">
+
+    </form>
+</body>
+</html>

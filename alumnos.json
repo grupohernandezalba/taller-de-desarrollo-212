@@ -3,162 +3,189 @@
         "nombre" : " Alan Javier",
         "apellidos" : "Arana Carrillo",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Arion",
         "apellidos" : "Bardo Aranda",
         "participaciones" : 0,
-        "practicas" : 0
+        "practicas" : 0,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Jaed Eduardo",
         "apellidos" : "Balleza Aceves",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Enrique Humberto",
         "apellidos" : "Bañuelos Neri",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Edgar",
         "apellidos" : "Cabrera Velazquez",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Diego",
         "apellidos" : "Camarena Gutiérrez",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Alejandra",
         "apellidos" : "Díaz Barajas",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Brisa Alessandra",
         "apellidos" : "García Rodríguez",
         "participaciones" : 0,
-        "practicas" : 0
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Leonardo Emmanuel",
         "apellidos" : "Guízar Rivera",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Jared Yahir",
         "apellidos" : "Hernández Delgado",
-        "participaciones" : 0,
-        "practicas" : 2
+        "participaciones" : 1,
+        "practicas" : 4,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641658896cb6330c067bbe13/tGoavz.png"
     },
     {
         "nombre" : "Nils Yasir",
         "apellidos" : "Hernández González",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Juan Pablo",
         "apellidos" : "Hernández Ponce de León",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Andrés",
         "apellidos" : "Jaime Rodríguez",
-        "participaciones" : 1,
-        "practicas" : 2
+        "participaciones" : 2,
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Edna Catalina",
         "apellidos" : "Méndez Zavala",
         "participaciones" : 0,
-        "practicas" : 1
+        "practicas" : 1,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Uriel",
         "apellidos" : "Mendoza Rodríguez",
-        "participaciones" : 0,
-        "practicas" : 1
+        "participaciones" : 1,
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Luis Pablo",
         "apellidos" : "Mujica Vargas",
-        "participaciones" : 0,
-        "practicas" : 2
+        "participaciones" : 1,
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Ronaldo",
         "apellidos" : "Núñez Laguna",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Victor Manuel",
         "apellidos" : "Ortíz Feregrino",
-        "participaciones" : 1,
-        "practicas" : 2
+        "participaciones" : 2,
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Juan Francisco",
         "apellidos" : "Osorno Martinez",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Sebastián",
         "apellidos" : "Rodríguez Martínez",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "José Manuel",
         "apellidos" : "Salcedo Méndez",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Cristian Ibrahim",
         "apellidos" : "Salomón Márquez",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 2,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "José Pablo",
         "apellidos" : "Sancen Fonseca",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 3,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Marco Antonio",
         "apellidos" : "Sánchez Murillo",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Kevin Jonathan",
         "apellidos" : "Tavera Pérez",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Luisa Fernanda",
         "apellidos" : "Vázquez Razo",
         "participaciones" : 0,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     },
     {
         "nombre" : "Ivan",
         "apellidos" : "Vivas García",
         "participaciones" : 1,
-        "practicas" : 2
+        "practicas" : 4,
+        "foto" : "imagenes/sin-foto.webp"
     }
 ]

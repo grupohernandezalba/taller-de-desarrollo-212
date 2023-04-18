@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS</title>
+    <style>
+        html {
+            /* si funciona */
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="titulo">Este es un texto</h1>
+    <p id="texto">Este es un parrafo en html</p>
+    <ul id="colores">
+        <li>Rojo</li>
+        <li>Verde</li>
+        <li>Azul</li>
+    </ul>
+    <script>
+        var titulo;
+        titulo = document.getElementById("titulo");
+        titulo.innerHTML = "Feliz regreso de vacaciones";
+
+        var texto;
+        texto = document.getElementById("texto");
+        texto.style.fontSize = "50px";
+        texto.style.backgroundColor = "red";
+
+        var colores;
+        colores = document.getElementById('colores');
+        colores.style.color = "purple";
+        colores.style.fontSize = "50px";
+        colores.style.display = "none";
+        colores.style.display = "block";
+
+        //notación camel case
+        function cambiaColor(){
+            console.log("Si entro a la función", 5 + 10);
+            colores.style.color = "#ff0000";
+        }
+        //scope de la función
+        /* este es un comentario */
+
+        cambiaColor();
+
+        document.write("Este es un número generado con JS: ");
+        document.write(50 / 60);
+        // window.alert("Esta es una alerta"); CTRL+K+C
+
+        var cadena = "Hola consola de JS";
+        console.log(cadena);
+        console.log("Solo para desarrolladores");
+
+        let a, b, c;
+        a = 5;
+        b = 6;
+        c = a + b;
+        console.log(c);
+
+        var radio = 10;
+        const PI = 3.1416;
+
+        function calcularArea(){
+            let areaTemporal = PI * radio * radio;
+            return areaTemporal;
+        }
+
+        console.log(calcularArea());
+
+        let numero = 10.50;
+        var numeroNuevo = 10;
+
+        let soyCadena = "jeje";
+        let soyCadena1 = "jeje";
+        let soyCadena2 = "jeje";
+
+        let $multi_plica = numero * numeroNuevo;
+        console.log($multi_plica);
+
+        let sinValor;
+        console.log(sinValor);
+
+        var auto = "BMW";
+        var auto;
+        console.log(auto);
+        //HOISTING
+
+        let variableLocal = 10;
+        {
+            let variableLocal = 2;
+            console.log("Primero:" + variableLocal);
+        }
+
+        console.log("Segundo:" + variableLocal);
+
+        const PI_ = 3.1416;
+
+    </script>
+</body>
+</html>

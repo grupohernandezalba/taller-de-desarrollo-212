@@ -44,7 +44,7 @@
     {
         "nombre" : "Alejandra",
         "apellidos" : "Díaz Barajas",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 5,
         "foto" : "https://api.readyplayer.me/v1/avatars/641f5d006f8b8bd3af72624f.png"
     },
@@ -100,14 +100,14 @@
     {
         "nombre" : "Uriel",
         "apellidos" : "Mendoza Rodríguez",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 4,
         "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fb4956f8b8bd3af72c822/ixfFan.png"
     },
     {
         "nombre" : "Luis Pablo",
         "apellidos" : "Mujica Vargas",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 4,
         "foto" : "imagenes/sin-foto.webp"
     },
@@ -142,7 +142,7 @@
     {
         "nombre" : "José Manuel",
         "apellidos" : "Salcedo Méndez",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 4,
         "foto" : "https://api.readyplayer.me/v1/avatars/642064727d3c6750c837e7c4.png"
     },

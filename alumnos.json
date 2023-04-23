@@ -31,7 +31,7 @@
         "nombre" : "Edgar",
         "apellidos" : "Cabrera Velazquez",
         "participaciones" : 3,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "imagenes/sin-foto.webp"
     },
     {
@@ -45,7 +45,7 @@
         "nombre" : "Alejandra",
         "apellidos" : "Díaz Barajas",
         "participaciones" : 2,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/641f5d006f8b8bd3af72624f.png"
     },
     {
@@ -66,7 +66,7 @@
         "nombre" : "Jared Yahir",
         "apellidos" : "Hernández Delgado",
         "participaciones" : 2,
-        "practicas" : 4,
+        "practicas" : 5,
         "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641658896cb6330c067bbe13/tGoavz.png"
     },
     {
@@ -80,14 +80,14 @@
         "nombre" : "Juan Pablo",
         "apellidos" : "Hernández Ponce de León",
         "participaciones" : 2,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/641ff5df6f8b8bd3af730982.png"
     },
     {
         "nombre" : "Andrés",
         "apellidos" : "Jaime Rodríguez",
         "participaciones" : 4,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/641fe08b6f8b8bd3af72f614.png"
     },
     {
@@ -122,14 +122,14 @@
         "nombre" : "Victor Manuel",
         "apellidos" : "Ortíz Feregrino",
         "participaciones" : 4,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/6417f3956cb6330c067dc599.png"
     },
     {
         "nombre" : "Juan Francisco",
         "apellidos" : "Osorno Martinez",
         "participaciones" : 0,
-        "practicas" : 4,
+        "practicas" : 5,
         "foto" : "https://api.readyplayer.me/v1/avatars/641fec048f41d262caa26d33.png"
     },
     {
@@ -143,7 +143,7 @@
         "nombre" : "José Manuel",
         "apellidos" : "Salcedo Méndez",
         "participaciones" : 2,
-        "practicas" : 4,
+        "practicas" : 5,
         "foto" : "https://api.readyplayer.me/v1/avatars/642064727d3c6750c837e7c4.png"
     },
     {
@@ -178,7 +178,7 @@
         "nombre" : "Luisa Fernanda",
         "apellidos" : "Vázquez Razo",
         "participaciones" : 0,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fee728f41d262caa26f8c/bzjV3S.png"
     },
     {

@@ -2,8 +2,8 @@
     {
         "nombre" : " Alan Javier",
         "apellidos" : "Arana Carrillo",
-        "participaciones" : 1,
-        "practicas" : 5,
+        "participaciones" : 2,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/641b651d04207164c85802db.png"
     },
     {
@@ -17,28 +17,28 @@
         "nombre" : "Jaed Eduardo",
         "apellidos" : "Balleza Aceves",
         "participaciones" : 5,
-        "practicas" : 3,
-        "foto" : "imagenes/sin-foto.webp"
+        "practicas" : 4,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641c92928f41d262ca9e84f4/l0xHRC.jpeg"
     },
     {
         "nombre" : "Enrique Humberto",
         "apellidos" : "Bañuelos Neri",
         "participaciones" : 2,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/641b69b2398f7e86e69ac785.png"
     },
     {
         "nombre" : "Edgar",
         "apellidos" : "Cabrera Velazquez",
-        "participaciones" : 3,
+        "participaciones" : 4,
         "practicas" : 6,
-        "foto" : "imagenes/sin-foto.webp"
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641be19004207164c858c728/brbOhp.jpeg"
     },
     {
         "nombre" : "Diego",
         "apellidos" : "Camarena Gutiérrez",
-        "participaciones" : 1,
-        "practicas" : 5,
+        "participaciones" : 2,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/64208b978f41d262caa31b7d.png"
     },
     {
@@ -52,21 +52,21 @@
         "nombre" : "Brisa Alessandra",
         "apellidos" : "García Rodríguez",
         "participaciones" : 7,
-        "practicas" : 3,
-        "foto" : "imagenes/sin-foto.webp"
+        "practicas" : 5,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641690d16cb6330c067c049d/KLq2Yv.jpeg"
     },
     {
         "nombre" : "Leonardo Emmanuel EXENTO",
         "apellidos" : "Guízar Rivera",
         "participaciones" : 5,
         "practicas" : 4,
-        "foto" : "imagenes/sin-foto.webp"
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641bfa8f398f7e86e69b967d/DXc76D.jpeg"
     },
     {
         "nombre" : "Jared Yahir",
         "apellidos" : "Hernández Delgado",
         "participaciones" : 2,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641658896cb6330c067bbe13/tGoavz.png"
     },
     {
@@ -79,7 +79,7 @@
     {
         "nombre" : "Juan Pablo",
         "apellidos" : "Hernández Ponce de León",
-        "participaciones" : 2,
+        "participaciones" : 3,
         "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/641ff5df6f8b8bd3af730982.png"
     },
@@ -94,8 +94,8 @@
         "nombre" : "Edna Catalina",
         "apellidos" : "Méndez Zavala",
         "participaciones" : 1,
-        "practicas" : 1,
-        "foto" : "imagenes/sin-foto.webp"
+        "practicas" : 2,
+        "foto" : "https://api.readyplayer.me/v1/avatars/643eceb76f7ba0a91da83034.png"
     },
     {
         "nombre" : "Uriel",
@@ -115,7 +115,7 @@
         "nombre" : "Ronaldo",
         "apellidos" : "Núñez Laguna",
         "participaciones" : 4,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/64200ee86f8b8bd3af732774.png"
     },
     {
@@ -129,7 +129,7 @@
         "nombre" : "Juan Francisco",
         "apellidos" : "Osorno Martinez",
         "participaciones" : 0,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/641fec048f41d262caa26d33.png"
     },
     {
@@ -143,13 +143,13 @@
         "nombre" : "José Manuel",
         "apellidos" : "Salcedo Méndez",
         "participaciones" : 2,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/642064727d3c6750c837e7c4.png"
     },
     {
         "nombre" : "Cristian Ibrahim",
         "apellidos" : "Salomón Márquez",
-        "participaciones" : 2,
+        "participaciones" : 3,
         "practicas" : 3,
         "foto" : "https://api.readyplayer.me/v1/avatars/641c61896f8b8bd3af6eaea2.png"
     },
@@ -171,7 +171,7 @@
         "nombre" : "Kevin Jonathan",
         "apellidos" : "Tavera Pérez",
         "participaciones" : 1,
-        "practicas" : 5,
+        "practicas" : 6,
         "foto" : "https://api.readyplayer.me/v1/avatars/64204c128f41d262caa2e119.png"
     },
     {
@@ -185,7 +185,7 @@
         "nombre" : "Ivan",
         "apellidos" : "Vivas García",
         "participaciones" : 7,
-        "practicas" : 4,
-        "foto" : "imagenes/sin-foto.webp"
+        "practicas" : 5,
+        "foto" : "https://api.readyplayer.me/v1/avatars/6420b7b1ac931720fb52230e.png"
     }
 ]

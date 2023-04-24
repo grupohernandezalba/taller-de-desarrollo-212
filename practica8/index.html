@@ -34,7 +34,41 @@ li a:hover:not(.active) {
   background-color: #555;
   color: white;
 }
+
+#home {
+    margin-left:25%;
+    padding:1px 16px;
+    height:1000px; 
+    background-color: pink;
+}
+
+#news {
+    margin-left:25%;
+    padding:1px 16px;
+    height:1000px; 
+    background-color: olive;
+    background: url(https://images.pexels.com/photos/1743165/pexels-photo-1743165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contact {
+    margin-left:25%;
+    padding:1px 16px;
+    height:1000px; 
+    background-color: red;
+}
+
+#about {
+    margin-left:25%;
+    padding:1px 16px;
+    height:1000px; 
+    background-color: yellow;
+}
 </style>
+
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
 <body>
 
@@ -44,9 +78,8 @@ li a:hover:not(.active) {
   <li id="contacto"><a href="#contact">Contacto</a></li>
   <li><a href="#about">Acerca de</a></li>
 </ul>
-<div style="margin-left:25%;padding:1px 16px;
-            height:1000px; background-color: pink;">
-  <h2>Título </h2>
+<div id="home" data-aos="fade-down">
+  <h2>INICIO </h2>
   <h3>Subtitulo</h3>
   <p>Información en texto del contenido</p>
   <p>Información en texto del contenido</p>
@@ -58,5 +91,48 @@ li a:hover:not(.active) {
   <p>Más texto</p>
 </div>
 
+<div id="news" data-aos="fade-down">
+    <h2>NOTICIAS </h2>
+    <h3>Subtitulo</h3>
+    <p>Información en texto del contenido</p>
+    <p>Información en texto del contenido</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+</div>
+
+  <div id="contact" data-aos="fade-down">
+    <h2>CONTACTO </h2>
+    <h3>Subtitulo</h3>
+    <p>Información en texto del contenido</p>
+    <p>Información en texto del contenido</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+  </div>
+
+  <div id="about" data-aos="fade-down">
+    <h2>ACERCA DE </h2>
+    <h3>Subtitulo</h3>
+    <p>Información en texto del contenido</p>
+    <p>Información en texto del contenido</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+    <p>Más texto</p>
+  </div>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>

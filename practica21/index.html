@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON</title>
+</head>
+<body>
+    <h1>Lista de paises</h1>
+    <div id="alumnos"></div>
+    <script>
+
+        let datos = [{
+            "nombre": "Edgar",
+            "edad": 32,
+            "domicilio": "Calle 23"
+        }, {    
+            "nombre": "Israel",
+            "edad": 45,
+            "domicilio": {
+                "calle": "blvd guanajuato",
+                "numero": 30,
+                "cp": 85885,
+                "colonia": "nvo. guanajuato"
+            }
+        }];
+      
+        let alumnos = document.getElementById("alumnos");
+
+        datos.forEach( alumno => {
+
+            console.log(alumno.domicilio);
+
+            let nombreAlumno = document.createElement("p");
+            nombreAlumno.textContent = alumno.nombre 
+            + " " + alumno.edad 
+            + " " + alumno.domicilio.calle;
+
+            alumnos.appendChild(nombreAlumno);
+
+        });
+
+ 
+
+    </script>
+</body>
+</html>

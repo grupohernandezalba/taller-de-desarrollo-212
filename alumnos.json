@@ -1,191 +1,218 @@
 [
     {
-        "nombre" : " Alan Javier",
+        "nombre" : " Alan Javier (10)",
         "apellidos" : "Arana Carrillo",
         "participaciones" : 2,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641b651d04207164c85802db.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641b651d04207164c85802db.png",
+        "equipo" : "Las leyendas"
     },
     {
-        "nombre" : "Arion",
+        "nombre" : "Arion (8)",
         "apellidos" : "Bardo Aranda",
         "participaciones" : 3,
-        "practicas" : 0,
-        "foto" : "imagenes/sin-foto.webp"
+        "practicas" : 8,
+        "foto" : "https://api.readyplayer.me/v1/avatars/64220893a9cf14ab7e4496e9.png",
+        "equipo" : "Syntax error"
     },
     {
-        "nombre" : "Jaed Eduardo",
+        "nombre" : "Jaed Eduardo (9)",
         "apellidos" : "Balleza Aceves",
         "participaciones" : 5,
-        "practicas" : 4,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641c92928f41d262ca9e84f4/l0xHRC.jpeg"
+        "practicas" : 10,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641c92928f41d262ca9e84f4/l0xHRC.jpeg",
+        "equipo" : "Los Placozones"
     },
     {
-        "nombre" : "Enrique Humberto",
+        "nombre" : "Enrique Humberto (10)",
         "apellidos" : "Bañuelos Neri",
-        "participaciones" : 2,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641b69b2398f7e86e69ac785.png"
+        "participaciones" : 3,
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641b69b2398f7e86e69ac785.png",
+        "equipo" : "Tilin Lovers"
     },
     {
-        "nombre" : "Edgar",
+        "nombre" : "Edgar (10)",
         "apellidos" : "Cabrera Velazquez",
         "participaciones" : 4,
-        "practicas" : 6,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641be19004207164c858c728/brbOhp.jpeg"
+        "practicas" : 10,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641be19004207164c858c728/brbOhp.jpeg",
+        "equipo" : "Syntax error"
     },
     {
-        "nombre" : "Diego",
+        "nombre" : "Diego (10)",
         "apellidos" : "Camarena Gutiérrez",
         "participaciones" : 2,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/64208b978f41d262caa31b7d.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/64208b978f41d262caa31b7d.png",
+        "equipo" : "Team Uro"
     },
     {
-        "nombre" : "Alejandra",
+        "nombre" : "Alejandra (10)",
         "apellidos" : "Díaz Barajas",
         "participaciones" : 2,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641f5d006f8b8bd3af72624f.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641f5d006f8b8bd3af72624f.png",
+        "equipo" : "Syntax error"
     },
     {
-        "nombre" : "Brisa Alessandra",
+        "nombre" : "Brisa Alessandra (10)",
         "apellidos" : "García Rodríguez",
         "participaciones" : 7,
-        "practicas" : 5,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641690d16cb6330c067c049d/KLq2Yv.jpeg"
+        "practicas" : 10,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641690d16cb6330c067c049d/KLq2Yv.jpeg",
+        "equipo" : "Las leyendas"
     },
     {
         "nombre" : "Leonardo Emmanuel EXENTO",
         "apellidos" : "Guízar Rivera",
         "participaciones" : 5,
         "practicas" : 4,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641bfa8f398f7e86e69b967d/DXc76D.jpeg"
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641bfa8f398f7e86e69b967d/DXc76D.jpeg",
+        "equipo" : "Alfa buena maravilla onda dinamita escuadron lobo"
     },
     {
-        "nombre" : "Jared Yahir",
-        "apellidos" : "Hernández Delgado",
+        "nombre" : "Jared Yahir (10)",
+        "apellidos" : "Hernández Delgado ",
         "participaciones" : 2,
-        "practicas" : 6,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641658896cb6330c067bbe13/tGoavz.png"
+        "practicas" : 10,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641658896cb6330c067bbe13/tGoavz.png",
+        "equipo" : "Las leyendas"
     },
     {
-        "nombre" : "Nils Yasir",
+        "nombre" : "Nils Yasir (9)",
         "apellidos" : "Hernández González",
         "participaciones" : 1,
-        "practicas" : 5,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fd57e6f8b8bd3af72ea02/henjOo.jpeg"
+        "practicas" : 9,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fd57e6f8b8bd3af72ea02/henjOo.jpeg",
+        "equipo" : "Conecta 3"
     },
     {
-        "nombre" : "Juan Pablo",
+        "nombre" : "Juan Pablo (10)",
         "apellidos" : "Hernández Ponce de León",
         "participaciones" : 3,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641ff5df6f8b8bd3af730982.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641ff5df6f8b8bd3af730982.png",
+        "equipo" : "Team Uro"
     },
     {
-        "nombre" : "Andrés",
+        "nombre" : "Andrés (10)",
         "apellidos" : "Jaime Rodríguez",
         "participaciones" : 4,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641fe08b6f8b8bd3af72f614.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641fe08b6f8b8bd3af72f614.png",
+        "equipo" : "Alfa buena maravilla onda dinamita escuadron lobo"
     },
     {
-        "nombre" : "Edna Catalina",
+        "nombre" : "Edna Catalina (?)",
         "apellidos" : "Méndez Zavala",
-        "participaciones" : 1,
+        "participaciones" : 2,
         "practicas" : 2,
-        "foto" : "https://api.readyplayer.me/v1/avatars/643eceb76f7ba0a91da83034.png"
+        "foto" : "https://api.readyplayer.me/v1/avatars/643eceb76f7ba0a91da83034.png",
+        "equipo" : "Fuerza G"
     },
     {
-        "nombre" : "Uriel",
+        "nombre" : "Uriel (10)",
         "apellidos" : "Mendoza Rodríguez",
         "participaciones" : 2,
-        "practicas" : 4,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fb4956f8b8bd3af72c822/ixfFan.png"
+        "practicas" : 10,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fb4956f8b8bd3af72c822/ixfFan.png",
+        "equipo" : "Team Uro"
     },
     {
-        "nombre" : "Luis Pablo",
+        "nombre" : "Luis Pablo (10)",
         "apellidos" : "Mujica Vargas",
         "participaciones" : 2,
-        "practicas" : 4,
-        "foto" : "imagenes/sin-foto.webp"
+        "practicas" : 10,
+        "foto" : "imagenes/sin-foto.webp",
+        "equipo" : "Las leyendas"
     },
     {
-        "nombre" : "Ronaldo",
+        "nombre" : "Ronaldo (10)",
         "apellidos" : "Núñez Laguna",
         "participaciones" : 4,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/64200ee86f8b8bd3af732774.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/64200ee86f8b8bd3af732774.png",
+        "equipo" : "Conecta 3"
     },
     {
-        "nombre" : "Victor Manuel",
+        "nombre" : "Victor Manuel (10)",
         "apellidos" : "Ortíz Feregrino",
         "participaciones" : 4,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/6417f3956cb6330c067dc599.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/6417f3956cb6330c067dc599.png",
+        "equipo" : "Alfa buena maravilla onda dinamita escuadron lobo"
     },
     {
-        "nombre" : "Juan Francisco",
+        "nombre" : "Juan Francisco (9)",
         "apellidos" : "Osorno Martinez",
-        "participaciones" : 0,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641fec048f41d262caa26d33.png"
+        "participaciones" : 1,
+        "practicas" : 9,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641fec048f41d262caa26d33.png",
+        "equipo" : "Team Uro"
     },
     {
-        "nombre" : "Sebastián",
+        "nombre" : "Sebastián (9)",
         "apellidos" : "Rodríguez Martínez",
         "participaciones" : 1,
-        "practicas" : 4,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641b6cdb398f7e86e69ad4e6/vXe1md.jpeg"
+        "practicas" : 10,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641b6cdb398f7e86e69ad4e6/vXe1md.jpeg",
+        "equipo" : "Fuerza G"
     },
     {
-        "nombre" : "José Manuel",
+        "nombre" : "José Manuel (10)",
         "apellidos" : "Salcedo Méndez",
-        "participaciones" : 2,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/642064727d3c6750c837e7c4.png"
+        "participaciones" : 3,
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/642064727d3c6750c837e7c4.png",
+        "equipo" : "Conecta 3"
     },
     {
-        "nombre" : "Cristian Ibrahim",
+        "nombre" : "Cristian Ibrahim (10)",
         "apellidos" : "Salomón Márquez",
         "participaciones" : 3,
-        "practicas" : 3,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641c61896f8b8bd3af6eaea2.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641c61896f8b8bd3af6eaea2.png",
+        "equipo" : "Tilin Lovers"
     },
     {
-        "nombre" : "José Pablo",
+        "nombre" : "José Pablo (9)",
         "apellidos" : "Sancen Fonseca",
-        "participaciones" : 0,
-        "practicas" : 4,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641f9e906f8b8bd3af72ae38.png"
-    },
-    {
-        "nombre" : "Marco Antonio",
-        "apellidos" : "Sánchez Murillo",
-        "participaciones" : 4,
-        "practicas" : 5,
-        "foto" : "https://api.readyplayer.me/v1/avatars/641b683604207164c85815f2.png"
-    },
-    {
-        "nombre" : "Kevin Jonathan",
-        "apellidos" : "Tavera Pérez",
         "participaciones" : 1,
-        "practicas" : 6,
-        "foto" : "https://api.readyplayer.me/v1/avatars/64204c128f41d262caa2e119.png"
+        "practicas" : 8,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641f9e906f8b8bd3af72ae38.png",
+        "equipo" : "Alfa buena maravilla onda dinamita escuadron lobo"
     },
     {
-        "nombre" : "Luisa Fernanda",
+        "nombre" : "Marco Antonio (10)",
+        "apellidos" : "Sánchez Murillo",
+        "participaciones" : 5,
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/641b683604207164c85815f2.png",
+        "equipo" : "Syntax error"
+    },
+    {
+        "nombre" : "Kevin Jonathan (10)",
+        "apellidos" : "Tavera Pérez",
+        "participaciones" : 2,
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/64204c128f41d262caa2e119.png",
+        "equipo" : "Las leyendas"
+    },
+    {
+        "nombre" : "Luisa Fernanda (10)",
         "apellidos" : "Vázquez Razo",
-        "participaciones" : 0,
-        "practicas" : 6,
-        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fee728f41d262caa26f8c/bzjV3S.png"
+        "participaciones" : 1,
+        "practicas" : 10,
+        "foto" : "https://readyplayerme-photobooth.s3.amazonaws.com/641fee728f41d262caa26f8c/bzjV3S.png",
+        "equipo" : "Syntax error"
     },
     {
-        "nombre" : "Ivan",
+        "nombre" : "Ivan (10)",
         "apellidos" : "Vivas García",
         "participaciones" : 7,
-        "practicas" : 5,
-        "foto" : "https://api.readyplayer.me/v1/avatars/6420b7b1ac931720fb52230e.png"
+        "practicas" : 10,
+        "foto" : "https://api.readyplayer.me/v1/avatars/6420b7b1ac931720fb52230e.png",
+        "equipo" : "Team Uro"
     }
 ]

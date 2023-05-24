@@ -1,7 +1,13 @@
 <div class="container">
         <div class="row">
             <?php
-                $consulta  = "SELECT * FROM tb_productos";
+            
+                if(!$categoria)
+                    $consulta  = "SELECT * FROM tb_productos";
+                else
+                    $consulta  = "SELECT * FROM tb_productos 
+                                WHERE fk_clave_cat = ".$categoria;
+
                 $query = $conn->prepare($consulta);
                 $query->execute();
                 while($registro = $query->fetch())

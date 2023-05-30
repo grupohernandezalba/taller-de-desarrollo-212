@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">LASALLE ELECTRONICA</a>
+    <a class="navbar-brand" href="#">ZAPATOS RODRIGUEZ</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -9,6 +9,16 @@
         <?php
          include("categorias.php");
         ?>
+
+        <li class="nav-item">
+          <a class="nav-link" href="?accion=ofertas">Ofertas</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="?accion=somos">Quienes somos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="?accion=ingresar">Ingresar</a>
+        </li>
       </ul>
     </div>
   </div>

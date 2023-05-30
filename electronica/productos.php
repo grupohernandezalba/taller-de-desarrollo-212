@@ -19,7 +19,7 @@
                         <div class="card-body">
                             <h5 class="card-title"><?=$registro["txt_nombre_pro"]?></h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <a href="?accion=borrarProducto&id=<?=$registro["pk_clave_pro"]?>" class="btn btn-danger" onclick="return confirm('Estás seguro que quieres borrar este registro?');">Borrar</a>
                         </div>
                     </div>
                 </div>
